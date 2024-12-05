@@ -1,4 +1,4 @@
-# Scan.IA - README
+# Scan.IA
 
 Este é o repositório do projeto **Scan.IA**, um aplicativo inteligente que utiliza técnicas de inteligência artificial para identificar logos de empresas em imagens. O sistema foi construído utilizando dois métodos de aprendizado de máquina, **K-means** e **SVM (Support Vector Machine)**, para realizar a tarefa de reconhecimento de logos com alta precisão.
 
